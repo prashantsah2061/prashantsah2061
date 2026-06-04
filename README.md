@@ -14,7 +14,7 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-I'm a Computer **Science student** (minoring in **Mathematics & Business Analytics**) who loves building things with machine learning and making sense of data. I spend my time on research, side projects, and helping other students learn to code.
+I'm a **Computer Science** student (minoring in **Mathematics & Business Analytics**) who loves building things with machine learning and making sense of data. I spend my time on research, side projects, and helping other students learn to code.
 
 ```python
 class Developer:

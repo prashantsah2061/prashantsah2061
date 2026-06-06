@@ -96,5 +96,9 @@ class Developer:
 ---
 
 <p align="center">🎉 <i>Fun fact: I once committed final, final FINAL, and final for real — all to the same file, in one day.</i> 😄</p>
+<p align="center">🎉 <i><p> Attention is all you need </p></i> </p>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" />
+
+

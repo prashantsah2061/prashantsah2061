@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+NLP;Data+Analysis+%C2%B7+Research;Always+learning,+always+building" alt="Typing SVG" />
+  
 </p>
 
 <p align="center">
@@ -11,8 +12,10 @@
 </p>
 
 ---
+<p align="center">🎉 <i><p> Attention is all you need </p></i> </p>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
 
 I'm a **Computer Science** student (minoring in **Mathematics & Business Analytics**) who loves building things with machine learning and making sense of data. I spend my time on research, side projects, and helping other students learn to code.
 
@@ -96,7 +99,6 @@ class Developer:
 ---
 
 <p align="center">🎉 <i>Fun fact: I once committed final, final FINAL, and final for real — all to the same file, in one day.</i> 😄</p>
-<p align="center">🎉 <i><p> Attention is all you need </p></i> </p>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" />
